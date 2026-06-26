@@ -1,5 +1,6 @@
-venv/
-__pycache__/
-*.pyc
-data/
-.env
+target/
+.classpath
+.project
+.settings/
+.factorypath
+*.class
